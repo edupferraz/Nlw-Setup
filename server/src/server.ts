@@ -1,31 +1,11 @@
-/* 
-     Back-end API RESTful
-
-    Método HTTP: Get, Post, Put (Atualização completa), Patch (Atualização de recurso específico), Delete
-
-    ORM - 
-*/
-
 import Fastify from 'fastify'
 import cors from '@fastify/cors'
-import { PrismaClient} from '@prisma/client'
+import { appRoutes } from './routes'
 
 const app = Fastify()
-const prisma = new PrismaClient()
 
 app.register(cors)
-
-app.get('/hello', async () => {
-    const habits = await prisma.habit.findMany({
-        where: {
-            title: {
-                startsWith: 'Beber'
-            }
-        }
-    })
-
-    return 'Hello World'
-})
+app.register(appRoutes)
 
 app.listen({
     port: 3333
