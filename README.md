@@ -2,7 +2,7 @@
 <p align="center"> :rocket: Habit Control Platform :rocket:</p>
 
 <h4 align="center"> 
-	:white_check_mark:  Finalized  :white_check_mark:
+	🚧  In Progress  🚧
 </h4>
 
 Table of contents
