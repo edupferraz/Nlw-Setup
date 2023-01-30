@@ -2,7 +2,7 @@
 <p align="center"> :rocket: Habit Control Platform :rocket:</p>
 
 <h4 align="center"> 
-	🚧  In Progress  🚧
+	✅  Finalized ✅
 </h4>
 
 Table of contents
@@ -42,9 +42,21 @@ Now with the clone on your machine just access it by VsCode!
 In the web folder run the command "npm run dev" and in the server folder run the same command
 
 <h2 id="project"> 💡 Projects </h2> 
- 
- 
-Comming Soon...
+
+### Web
+
+<div>
+ <img src="https://user-images.githubusercontent.com/57379069/215370304-63a7259b-8d09-45cc-a4a4-70a191698a3f.jpeg" alt="Mobile Home Add Habit" width="550" />
+ <img src="https://user-images.githubusercontent.com/57379069/215370392-64f45a30-b1e2-4adf-85f2-3af9013516e6.jpeg" alt="Mobile Status" width="310" />
+</div>
+
+### Mobile
+
+<div>
+ <img src="https://user-images.githubusercontent.com/57379069/215370109-3c4d0994-733c-4ec9-b371-0eccc1ca77aa.jpeg" alt="Mobile Loading" width="300" />
+ <img src="https://user-images.githubusercontent.com/57379069/215369880-519862a6-1631-4c20-9305-0741b49949ec.jpeg" alt="Mobile Home" width="300" />
+ <img src="https://user-images.githubusercontent.com/57379069/215369805-0f6ac845-c43a-4b52-b429-69a060ec2f18.jpeg" alt="Mbile Add Habit" width="300" />
+</div>
 
 <h2 id="technologies"> 🛠️ Technologies </h2> 
 
@@ -62,6 +74,7 @@ Comming Soon...
 - DayJs
 
 
+
 <h2 id="license"> :memo: License </h2> 
 
 <p> The project is under MIT license </p>
@@ -70,4 +83,6 @@ Comming Soon...
 <h2 id="author"> :rocket:  Author </h2>  
 
 <p> Made with :blue_heart: by Eduardo Perorck Ferraz </p>
+
+
 
